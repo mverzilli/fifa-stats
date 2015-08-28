@@ -1,4 +1,4 @@
-  (defproject clojure-getting-started "1.0.0-SNAPSHOT"
+  (defproject fifa-stats "1.0.0-SNAPSHOT"
   :main "fifa-stats.web"
   :description "Demo Clojure web app"
   :url "http://clojure-getting-started.herokuapp.com"
