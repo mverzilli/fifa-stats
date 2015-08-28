@@ -1,5 +1,5 @@
   (defproject fifa-stats "1.0.0-SNAPSHOT"
-  :main "fifa-stats.web"
+  :main fifa-stats.web
   :description "Demo Clojure web app"
   :url "http://clojure-getting-started.herokuapp.com"
   :license {:name "Eclipse Public License v1.0"
