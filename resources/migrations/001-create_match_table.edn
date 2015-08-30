@@ -1,0 +1,2 @@
+{:up ["CREATE TABLE match (id SERIAL, team1 text, team2 text, player1 text, player2 text, player3 text, player4 text, score_team1 int, score_team2 int, updated_at timestamp with time zone, created_at timestamp with time zone)"]
+ :down ["DROP TABLE match"]}
